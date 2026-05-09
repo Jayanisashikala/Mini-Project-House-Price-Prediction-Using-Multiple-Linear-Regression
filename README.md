@@ -33,19 +33,6 @@ In this project, a Multiple Linear Regression model is built to predict house pr
 * `CIT_23_02_0162_CCS4340_Lab_1.ipynb` — Main Jupyter Notebook
 * `README.md` — Project documentation
 
-## 📊 Machine Learning Technique
-
-This project uses:
-
-y = b_0 + b_1x_1 + b_2x_2 + \cdots + b_nx_n
-
-Where:
-
-* ( y ) = Predicted house price
-* ( b_0 ) = Intercept
-* ( b_1, b_2, ..., b_n ) = Coefficients
-* ( x_1, x_2, ..., x_n ) = Property features
-
 ## ▶️ How to Run
 
 1. Install Python and Jupyter Notebook
